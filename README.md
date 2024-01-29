@@ -1,3 +1,4 @@
+(see the [python version](https://github.com/Pix3lRift/wynn-api/blob/py-v3/README.md))
 ## About
 A simple API wrapper for the [Wynncraft API](https://documentation.wynncraft.com/)
 
