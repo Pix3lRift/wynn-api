@@ -1,3 +1,4 @@
+(go back to the [Node.js version](https://github.com/Pix3lRift/wynn-api/tree/node-v3))
 ## About
 A simple API wrapper for the [Wynncraft API](https://documentation.wynncraft.com/)
 
