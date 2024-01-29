@@ -1,0 +1,30 @@
+{
+  "name": "wynn-api-node",
+  "version": "3.2.0",
+  "description": "A simple API wrapper for the Wynncraft API",
+  "main": "./src/index.js",
+  "types": "./typings/index.d.ts",
+  "scripts": {
+
+  },
+  "keywords": [
+    "wynncraft",
+    "wynn",
+    "api",
+    "wrapper",
+    "node"
+  ],
+  "author": "PixelRift <https://amogus.my.to>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pix3lRift/wynn-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pix3lRift/wynn-api/issues"
+  },
+  "homepage": "https://github.com/Pix3lRift/wynn-api#readme",
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}
